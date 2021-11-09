@@ -1,5 +1,6 @@
 .img-background {
   background-image: url("../images/vector-clover-leaf-seamless-background.webp");
+  background-attachment: fixed;
   background-size: 50%;
 }
 .img-head {
